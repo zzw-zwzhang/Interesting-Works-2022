@@ -8,5 +8,5 @@
 
 
 ## Generative Models
-- [Diagnosing and Fixing Manifold Overfitting in Deep Generative Models](https://arxiv.org/pdf/2204.07172.pdf), 2022 arXiv. [CODE](https://github.com/layer6ai-labs/two_step_zoo)
+- [Diagnosing and Fixing Manifold Overfitting in Deep Generative Models](https://arxiv.org/pdf/2204.07172.pdf), 2022 arXiv. [[CODE](https://github.com/layer6ai-labs/two_step_zoo)]
 - 
