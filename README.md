@@ -15,4 +15,4 @@
 
 
 ## Partial Differential Equations
--[Choose a Transformer: Fourier or Galerkin](https://arxiv.org/pdf/2105.14995.pdf), 2021 NeurIPS.
+- [Choose a Transformer: Fourier or Galerkin](https://arxiv.org/pdf/2105.14995.pdf), 2021 NeurIPS. [[CODE](https://github.com/scaomath/galerkin-transformer)]
