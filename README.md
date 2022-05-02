@@ -18,5 +18,5 @@
 - [Choose a Transformer: Fourier or Galerkin](https://arxiv.org/pdf/2105.14995.pdf), 2021 NeurIPS. [[CODE](https://github.com/scaomath/galerkin-transformer)]
 
 
-## Implicit Differentiation
+## Gradient-based Hyperparameter Optimization
 - [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/pdf/1911.02590.pdf), 2020 AISTATS. [[CODE](https://github.com/lorraine2/implicit-hyper-opt)]
