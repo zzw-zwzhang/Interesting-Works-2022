@@ -23,4 +23,4 @@
 
 
 ## SGD
-- [Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond]([https://arxiv.org/pdf/2204.07172.pdf](https://arxiv.org/pdf/2110.10342.pdf)), 2022 ICLR Oral. [[CODE](https://github.com/layer6ai-labs/two_step_zoo)]
+- [Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond](https://arxiv.org/pdf/2110.10342.pdf)), 2022 ICLR Oral.
