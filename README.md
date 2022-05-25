@@ -20,3 +20,7 @@
 
 ## Gradient-based Hyperparameter Optimization
 - [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/pdf/1911.02590.pdf), 2020 AISTATS. [[CODE](https://github.com/lorraine2/implicit-hyper-opt)]
+
+
+## SGD
+- [Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond]([https://arxiv.org/pdf/2204.07172.pdf](https://arxiv.org/pdf/2110.10342.pdf)), 2022 ICLR Oral. [[CODE](https://github.com/layer6ai-labs/two_step_zoo)]
