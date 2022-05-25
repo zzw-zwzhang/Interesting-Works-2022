@@ -26,7 +26,7 @@
 
 
 ## SGD
-- [Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond](https://arxiv.org/pdf/2110.10342.pdf)), 2022 ICLR Oral.
+- [Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond](https://arxiv.org/pdf/2110.10342.pdf), 2022 ICLR Oral.
 
 
 
