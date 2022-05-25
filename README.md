@@ -6,7 +6,6 @@
 
 
 
-
 ## Generative Models
 - [Diagnosing and Fixing Manifold Overfitting in Deep Generative Models](https://arxiv.org/pdf/2204.07172.pdf), 2022 arXiv. [[CODE](https://github.com/layer6ai-labs/two_step_zoo)]
 - 
@@ -18,9 +17,18 @@
 - [Choose a Transformer: Fourier or Galerkin](https://arxiv.org/pdf/2105.14995.pdf), 2021 NeurIPS. [[CODE](https://github.com/scaomath/galerkin-transformer)]
 
 
+
+
 ## Gradient-based Hyperparameter Optimization
 - [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/pdf/1911.02590.pdf), 2020 AISTATS. [[CODE](https://github.com/lorraine2/implicit-hyper-opt)]
 
 
+
+
 ## SGD
 - [Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond](https://arxiv.org/pdf/2110.10342.pdf)), 2022 ICLR Oral.
+
+
+
+## Transformer
+- [Pyraformer: Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting](https://openreview.net/pdf?id=0EXmFzUn5I), 2022 ICLR Oral.
