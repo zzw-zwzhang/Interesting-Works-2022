@@ -42,7 +42,7 @@
 
 
 ## Thompson Sampling
-- [A Tutorial on Thompson Sampling](https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf). [[CODE]()]
+- [A Tutorial on Thompson Sampling](https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf). [[CODE](https://github.com/iosband/ts_tutorial)]
 
   Bernoulli bandit problems, shortest path problems, product recommendation, assortment, active learning with neural networks, and reinforcement learning in Markov decision processes.
   
