@@ -44,5 +44,6 @@
 ## Thompson Sampling
 - [A Tutorial on Thompson Sampling](https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf). [[CODE]()]
 
-  1)Bernoulli bandit problems, shortest path problems, product recommendation, assortment, active learning with neural networks, and reinforcement learning in Markov decision processes.
-- [](). [[CODE]()]
+  Bernoulli bandit problems, shortest path problems, product recommendation, assortment, active learning with neural networks, and reinforcement learning in Markov decision processes.
+  
+- [Improving Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms and Its Applications](https://arxiv.org/pdf/1703.01610.pdf), 2017 NeurIPS. [[CODE]()]
