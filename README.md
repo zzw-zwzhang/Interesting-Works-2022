@@ -48,6 +48,5 @@
   
 - [An Empirical Evaluation of Thompson Sampling](https://papers.nips.cc/paper/2011/file/e53a0a2978c28872a4505bdb51db06dc-Paper.pdf), 2021 NIPS.
 - [Feel-Good Thompson Sampling for Contextual Bandits and Reinforcement Learning](https://arxiv.org/pdf/2110.00871.pdf), 2021 arXiv.
-  
 - [Improving Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms and Its Applications](https://arxiv.org/pdf/1703.01610.pdf), 2017 NeurIPS. [[CODE]()]
 - [Combinatorial Multi-Armed Bandit: GeneralFramework, Results and Applications](http://proceedings.mlr.press/v28/chen13a.pdf), 2013 ICML.
