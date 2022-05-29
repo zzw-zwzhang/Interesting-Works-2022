@@ -46,5 +46,7 @@
 
   Bernoulli bandit problems, shortest path problems, product recommendation, assortment, active learning with neural networks, and reinforcement learning in Markov decision processes.
   
+- [An Empirical Evaluation of Thompson Sampling](https://papers.nips.cc/paper/2011/file/e53a0a2978c28872a4505bdb51db06dc-Paper.pdf), 2021 NIPS.
+  
 - [Improving Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms and Its Applications](https://arxiv.org/pdf/1703.01610.pdf), 2017 NeurIPS. [[CODE]()]
 - [Combinatorial Multi-Armed Bandit: GeneralFramework, Results and Applications](http://proceedings.mlr.press/v28/chen13a.pdf), 2013 ICML.
