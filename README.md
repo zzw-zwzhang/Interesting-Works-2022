@@ -38,3 +38,9 @@
 ## Transformer
 - [Pyraformer: Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting](https://openreview.net/pdf?id=0EXmFzUn5I), 2022 ICLR Oral.
 - [Perceiver: General Perception with Iterative Attention](https://arxiv.org/pdf/2103.03206.pdf), 2021 ICML.
+
+
+
+## Thompson Sampling
+- [A Tutorial on Thompson Sampling](https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf). [[CODE]()]
+- [](). [[CODE]()]
