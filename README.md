@@ -50,3 +50,4 @@
 - [Feel-Good Thompson Sampling for Contextual Bandits and Reinforcement Learning](https://arxiv.org/pdf/2110.00871.pdf), 2021 arXiv.
 - [Improving Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms and Its Applications](https://arxiv.org/pdf/1703.01610.pdf), 2017 NeurIPS. [[CODE]()]
 - [Combinatorial Multi-Armed Bandit: GeneralFramework, Results and Applications](http://proceedings.mlr.press/v28/chen13a.pdf), 2013 ICML.
+- [求通俗解释下bandit老虎机到底是个什么东西？](https://www.zhihu.com/question/53381093)
