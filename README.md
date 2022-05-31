@@ -18,7 +18,7 @@
 
 ## FrequencyDNN
 - [Theory of the Frequency Principle for General Deep Neural Networks](https://arxiv.org/pdf/1906.09235v2.pdf), 2019 arXiv.
-- [A Fourier Perspective on Model Robustness in Computer Vision](https://arxiv.org/pdf/1906.08988.pdf), 2019 NeurIPS. [CODE]([https://github.com/scaomath/galerkin-transformer](https://github.com/google-research/google-research/tree/master/frequency_analysis))]
+- [A Fourier Perspective on Model Robustness in Computer Vision](https://arxiv.org/pdf/1906.08988.pdf), 2019 NeurIPS. [[CODE]([https://github.com/scaomath/galerkin-transformer](https://github.com/google-research/google-research/tree/master/frequency_analysis))]
 
 
 
