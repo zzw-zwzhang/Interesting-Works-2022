@@ -16,6 +16,10 @@
 - 
 
 
+## FrequencyDNN
+- [Theory of the Frequency Principle for General Deep Neural Networks](https://arxiv.org/pdf/1906.09235v2.pdf), 2019 arXiv.
+
+
 
 
 ## Partial Differential Equations
